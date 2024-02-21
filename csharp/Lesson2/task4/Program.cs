@@ -10,13 +10,13 @@ for (int i = 0; i < arr.Length; i++){
 }
 
 
-for (int i = 0; i < arr.Length; i++){
-    Console.Write($"{arr[i]} ");
+foreach (int e in arr){
+    Console.Write($"{e} ");
 }
 
-for (int i = 1; i < arr.Length; i++){
-    if (arr[i] > max){
-        max = arr[i];
+foreach (int e in arr){
+    if (e > max){
+        max = e;
     }
 }
 Console.Write($"\n\n{max}");
