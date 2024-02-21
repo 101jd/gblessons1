@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\bin\Debug\net8.0\Novice.exe
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\bin\Debug\net8.0\Novice.deps.json
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\bin\Debug\net8.0\Novice.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\bin\Debug\net8.0\Novice.dll
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\bin\Debug\net8.0\Novice.pdb
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.dll
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\refint\Novice.dll
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.pdb
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\Novice.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\codewars\Novice\obj\Debug\net8.0\ref\Novice.dll
