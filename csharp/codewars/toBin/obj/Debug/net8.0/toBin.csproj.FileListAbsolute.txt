@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\bin\Debug\net8.0\toBin.exe
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\bin\Debug\net8.0\toBin.deps.json
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\bin\Debug\net8.0\toBin.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\bin\Debug\net8.0\toBin.dll
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\bin\Debug\net8.0\toBin.pdb
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.dll
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\refint\toBin.dll
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.pdb
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\toBin.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\codewars\toBin\obj\Debug\net8.0\ref\toBin.dll

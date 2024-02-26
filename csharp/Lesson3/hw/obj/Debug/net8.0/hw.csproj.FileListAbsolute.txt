@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\bin\Debug\net8.0\hw.exe
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\bin\Debug\net8.0\hw.deps.json
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\bin\Debug\net8.0\hw.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\bin\Debug\net8.0\hw.dll
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\bin\Debug\net8.0\hw.pdb
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.dll
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\refint\hw.dll
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.pdb
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\hw.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\Lesson3\hw\obj\Debug\net8.0\ref\hw.dll
