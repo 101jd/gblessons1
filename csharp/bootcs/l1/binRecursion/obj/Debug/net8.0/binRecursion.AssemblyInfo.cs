@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("binRecursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3df85444d94f9edb6fdfaefb0e2ae869e9f729f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e53fd06dc16631322523160b8de4e93c701efee")]
 [assembly: System.Reflection.AssemblyProductAttribute("binRecursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("binRecursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
