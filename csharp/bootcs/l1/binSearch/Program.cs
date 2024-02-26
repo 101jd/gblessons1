@@ -14,7 +14,7 @@ min -= 1;
 int mid = (min + max) / 2;
 while (max - min != 1) {
     Console.WriteLine($"Число больше {mid}? y/n");
-    char c = Convert.ToChar(Console.ReadLine());
+    char c = char.Parse(Console.ReadLine());
     if (c == 'y'){
         min = mid;
         mid = (min + max) / 2;
