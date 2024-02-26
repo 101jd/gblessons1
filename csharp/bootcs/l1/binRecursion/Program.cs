@@ -12,8 +12,6 @@ while (!b){
 }
 
 int GuessNumber (int min, int max){
-    //min -= 1;
-    int result;
     int mid = (min + max) / 2;
 
     if (max - min != 1 && mid > 0){
