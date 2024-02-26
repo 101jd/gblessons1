@@ -1,7 +1,8 @@
 ﻿Console.Clear();
 bool b = false;
-int min = 1;
-int max = 100;
+int min = -10;
+int max = 10;
+int check = min;
 
 while (!b){
     Console.WriteLine($"Загадайте число от {min} до {max}");
@@ -14,7 +15,7 @@ while (!b){
 int GuessNumber (int min, int max){
     int mid = (min + max) / 2;
 
-    if (max - min != 1 && mid > 0){
+    if (max - min != 1 && mid >= check){
         Console.WriteLine($"Число больше {mid}? y/n");
         char c = char.Parse(Console.ReadLine());
         if (c == 'y'){
