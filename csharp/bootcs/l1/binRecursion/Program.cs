@@ -16,7 +16,7 @@ int GuessNumber (int min, int max){
     int result;
     int mid = (min + max) / 2;
 
-    while (max - min != 1){
+    if (max - min != 1){
         Console.WriteLine($"Число больше {mid}? y/n");
         char c = char.Parse(Console.ReadLine());
         if (c == 'y'){
