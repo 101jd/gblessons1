@@ -40,8 +40,6 @@ int FindMax (int[] array){
     if (array.Length == 1){
         return pivot;
     }
-
-    //recursion
     
     int count = 0;
     for (int i = 1; i < array.Length; i++){
@@ -51,6 +49,8 @@ int FindMax (int[] array){
 
     if (count == 0)
         return pivot;
+    
+    //recursion
     
     int[] more = new int [count];
     pivot = array[0];
