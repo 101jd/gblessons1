@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task1\\task1.csproj",
+      "projectUniqueName": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task1\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task1\\task1.csproj",
+      "projectPath": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\janedoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task1\\obj\\",
+      "outputPath": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janedoe\\AppData\\Roaming\\NuGet\\NuGet.Config"

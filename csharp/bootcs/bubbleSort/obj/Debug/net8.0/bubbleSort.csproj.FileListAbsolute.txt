@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\bin\Debug\net8.0\bubbleSort.exe
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\bin\Debug\net8.0\bubbleSort.deps.json
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\bin\Debug\net8.0\bubbleSort.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\bin\Debug\net8.0\bubbleSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\bin\Debug\net8.0\bubbleSort.pdb
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\refint\bubbleSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.pdb
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\bubbleSort.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\bubbleSort\obj\Debug\net8.0\ref\bubbleSort.dll

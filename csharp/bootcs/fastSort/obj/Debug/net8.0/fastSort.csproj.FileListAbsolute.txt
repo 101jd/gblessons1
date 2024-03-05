@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\bin\Debug\net8.0\fastSort.exe
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\bin\Debug\net8.0\fastSort.deps.json
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\bin\Debug\net8.0\fastSort.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\bin\Debug\net8.0\fastSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\bin\Debug\net8.0\fastSort.pdb
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\refint\fastSort.dll
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.pdb
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\fastSort.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\bootcs\fastSort\obj\Debug\net8.0\ref\fastSort.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task2\\task2.csproj": {}
+    "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task2\\task2.csproj": {
+    "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\janedoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janedoe\\GBCode\\csharp\\Seminar2\\task2\\obj\\",
+        "outputPath": "C:\\Users\\janedoe\\GBCode\\csharp\\hw2_KonkovaE\\Seminar2\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janedoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
