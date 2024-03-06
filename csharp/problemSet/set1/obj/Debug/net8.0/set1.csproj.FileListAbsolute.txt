@@ -1,0 +1,15 @@
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.AssemblyInfoInputs.cache
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.AssemblyInfo.cs
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.csproj.CoreCompileInputs.cache
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.sourcelink.json
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\bin\Debug\net8.0\set1.exe
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\bin\Debug\net8.0\set1.deps.json
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\bin\Debug\net8.0\set1.runtimeconfig.json
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\bin\Debug\net8.0\set1.dll
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\bin\Debug\net8.0\set1.pdb
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.dll
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\refint\set1.dll
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.pdb
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\set1.genruntimeconfig.cache
+C:\Users\janedoe\GBCode\csharp\problemSet\set1\obj\Debug\net8.0\ref\set1.dll
