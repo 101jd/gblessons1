@@ -26,13 +26,32 @@ namespace Server{
 
         // держим соединение с отдельным клиентом
         void HandleClient(TcpClient client){
-            StreamReader sReader = new StreamReader(client.GetStream(), Encoding.UTF8); // получаем поток
-            StreamWriter sWriter = new StreamWriter(client.GetStream(), Encoding.UTF8);
+            //StreamReader sReader = new StreamReader(client.GetStream(), Encoding.UTF8); // получаем поток
+            //StreamWriter sWriter = new StreamWriter(client.GetStream(), Encoding.UTF8);
 
-            while (true){
+            //while (true){
+                
+
+               
+            //}
+            Thread _read = new Thread (() => ReadMessage(client));
+            _read.Start();
+            Thread _write = new Thread (() => WriteMessage(client));
+            _write.Start();
+        }
+
+        void ReadMessage (TcpClient client){
+            StreamReader sReader = new StreamReader(client.GetStream(), Encoding.UTF8);
+
+            while(true){
                 string message = sReader.ReadLine(); //получаем строку из потока
                 System.Console.WriteLine($"Client writes: {message}");
+            }
+        }
 
+        void WriteMessage(TcpClient client){
+            StreamWriter sWriter = new StreamWriter(client.GetStream(), Encoding.UTF8);
+            while (true){
                 System.Console.Write("> ");
                 string? text = Console.ReadLine();
                 sWriter.WriteLine(text); // отправляем сообщение на сервер...

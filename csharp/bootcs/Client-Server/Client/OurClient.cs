@@ -17,14 +17,32 @@ namespace Client{
 
         // держим подключение
         void HandleCommunication(){
+           // while(true){
+                
+            
+            //while (true){
+                Thread _read = new Thread (() => ReadMessage());
+                _read.Start();
+                Thread _write = new Thread (() => WriteMessage());
+                _write.Start();
+            //}
+                
+            //}
+        }
+
+        void ReadMessage (){
+            while (true){
+                string text = sReader.ReadLine(); //получаем строку из потока
+                System.Console.WriteLine($"Server writes: {text}");
+            }
+        }
+
+        void WriteMessage (){
             while(true){
                 System.Console.Write("> ");
                 string? message = Console.ReadLine();
                 sWriter.WriteLine(message); // отправляем сообщение на сервер...
                 sWriter.Flush(); // ...немедленно!
-
-                string text = sReader.ReadLine(); //получаем строку из потока
-                System.Console.WriteLine($"Server writes: {text}");
             }
         }
     }
