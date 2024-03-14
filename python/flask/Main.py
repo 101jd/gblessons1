@@ -1,7 +1,18 @@
 from flask import Flask, render_template
-
+from regForm import RegisterForm
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = "hello hello" #anti-CSRF
+
+
+@app.route("/register", methods=["GET", "POST"])
+def register():
+    form = RegisterForm()
+    if form.validate_on_submit():
+        print(form.data['name'],
+              form.data['email'],
+              form.data['password'])
+    return render_template("reg.html", form=form)
 
 
 @app.route("/") # GET
