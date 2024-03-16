@@ -15,22 +15,22 @@ namespace OOP
         private List<int>? workersDepId;
         public DataBase(List<Worker> workers, List<Department> departments)
         {
-            //try
-            //{
-            if (workers != null)
+            try
             {
-                workerName = this.initName(workers);
-                age = this.initAge(workers);
-                depName = this.initDepName(workers, departments);
-                workersDepId = this.initWorkersDepId(workers);
+            //if (workers != null)
+            {
+                workerName = initName(workers);
+                age = initAge(workers);
+                depName = initDepName(workers, departments);
+                workersDepId = initWorkersDepId(workers);
                 this.workers = workers;
             }
-            //}
-            //catch (NullReferenceException err)
-            //{
-            //    System.Console.WriteLine("NULL");
-            //    System.Console.WriteLine(err.Message);
-            //}
+            }
+            catch (NullReferenceException err)
+            {
+                System.Console.WriteLine("NULL");
+                System.Console.WriteLine(err.Message);
+            }
         }
         
         public List<int> initAge(List<Worker> workers)

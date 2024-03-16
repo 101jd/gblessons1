@@ -29,9 +29,15 @@ namespace OOP
 
             DataBase db = new DataBase(workers, departments);
 
-            System.Console.WriteLine(worker1.ToString());
+            foreach (Worker worker in workers){
+                System.Console.WriteLine(worker.ToString());
+            }
+
+            foreach (Department department in departments){
+                System.Console.WriteLine(department.ToString());
+            }
+
             System.Console.WriteLine("====");
-            System.Console.WriteLine(department1.ToString());
             //try {
             System.Console.WriteLine(db.ToString());//} catch (NullReferenceException err){
                 //System.Console.WriteLine("NULL");
