@@ -27,22 +27,16 @@ namespace OOP
             workers.Add(worker4);
             workers.Add(worker5);
 
-            DataBase db = new DataBase(workers, departments);
+            DataBase db = new DataBase();
 
-            foreach (Worker worker in workers){
-                System.Console.WriteLine(worker.ToString());
+            foreach (Worker w in workers){
+                db.AppendWorkers(w);
+            }
+            foreach (Department d in departments){
+                db.AppendDepartments(d);
             }
 
-            foreach (Department department in departments){
-                System.Console.WriteLine(department.ToString());
-            }
-
-            System.Console.WriteLine("====");
-            //try {
-            System.Console.WriteLine(db.ToString());//} catch (NullReferenceException err){
-                //System.Console.WriteLine("NULL");
-                //System.Console.WriteLine(err.Message);
-            //}
+            System.Console.WriteLine(db.Print());
             
         }
     }
